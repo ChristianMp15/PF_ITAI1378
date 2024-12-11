@@ -6,3 +6,16 @@ Welcome to my PortFolio for ITAI 1378 Computer Vision
 
 The repositorie is organise into the following folders:
 - Labs: Contains all the Lab assignements I completed.
+# Key Topics
+Throughout this Course, We worked on Various topics, including:
+- Introduction to Computer Vision
+- Cameras & Sensors
+- Tools of the Trade
+- Fundamentals of Image Processing
+- Basics of Neural Networks
+- Convolutional Neural Networks
+- CNN Basic Architectures and Transfer Learning
+- Advanced CNN Architectures and Object detection & Recognition
+- Video Analysis & Generation
+- Generative AI for Computer Vision
+- Autonomous Systems For Computer Vision

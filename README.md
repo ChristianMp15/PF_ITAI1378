@@ -4,8 +4,8 @@ Welcome to my PortFolio for ITAI 1378 Computer Vision
 #Repository Structure
 
 The repositorie is organise into the following files:
-- Labs: all the Lab assignements I completed.
-- Assignments: all the Assignments I completed and the one I participated in.
+- Labs (L+number): all the Lab assignements I completed.
+- Assignments (A+number): all the Assignments I completed and the one I participated in.
 # Key Topics
 Throughout this Course, We worked on Various topics, including:
 - Introduction to Computer Vision
